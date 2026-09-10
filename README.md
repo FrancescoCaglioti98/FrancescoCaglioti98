@@ -1,74 +1,22 @@
-<h2 align="left">Hi 👋!<br>I'm Francesco, a backend developer currently based in Milan</h2>
+### Francesco Caglioti — Backend Software Engineer, Milan
 
-###
+Backend developer, mostly PHP/Symfony. At Iliad Italia I work on the backend of
+the business customer management platform, and I co-designed the team's new
+multi-tenant billing service in Go — currently one of its two active developers.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancescoCaglioti98&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrancescoCaglioti98&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+I care about data isolation in multi-tenant systems, code quality as a process
+(static analysis in the pipeline, not by hand), and the tooling that makes a
+system testable when it depends on external services.
 
-###
+On the side I'm building a multi-tenant B2B SaaS for logistics (Laravel, private
+repo), and I write up the architecture as I go.
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/91256439?v=4"  />
+**Daily stack:** PHP 8.3 · Symfony 6.4 · API Platform · PostgreSQL · PHPUnit · Docker · GitLab CI  
+**Also writing:** Go (in production since 2026)
 
-###
+I write about what I build at [fcaglioti.cc](https://fcaglioti.cc/en/):
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/clickup/000000" height="30" alt="clickup logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-</div>
+- [Multi-Tenant with Laravel: Data Isolation and Global Scope](https://fcaglioti.cc/en/article/saas-multi-tenant/saas-multi-tenant-laravel/)
+- [Tailscale VPN: Complete HomeLab Setup Guide](https://fcaglioti.cc/en/article/tailscale/)
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/frcaglioti/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@francesco.caglioti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://dev.to/francescocaglioti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FrancescoCaglioti98/FrancescoCaglioti98/output/snake.svg" alt="Snake animation" />
+[Site](https://fcaglioti.cc/en/) · [CV](https://fcaglioti.cc/en/cv/) · [LinkedIn](https://www.linkedin.com/in/frcaglioti/) · [Email](mailto:personal@fcaglioti.cc)
